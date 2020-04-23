@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2017-11-22T23:00:00.000+00:00
+date: 
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -63,7 +63,7 @@ page_sections:
   caption: All Available Blocks
 - template: detail-content
   block: text-1
-  headline: Steps to Build a Site!
+  headline: Welcome text
   content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
     tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
     the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
